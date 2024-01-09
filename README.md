@@ -19,12 +19,12 @@ What things you need to install the software:
 1. **Clone the Repository**
 
    ```bash
-   git clone [Your Repository Link]
+   git clone https://github.com/emtgltst/hrznt-lbs.git
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd [Your Project Name]
+   cd hrznt-lbs
 
 3. **Install Dependencies**
 
@@ -80,6 +80,8 @@ Access the application at http://localhost:3000.
 ```
 
 ### Running the Tests
-To run the automated tests for this system:
-    ```bash
-   npm test
+
+**To run the automated tests for this system:**
+
+   ```bash
+   npm run test

@@ -2,6 +2,10 @@
 
 This project is a NodeJS REST API built with ExpressJS as a task for a Backend Developer job application to Horizontal Labs. It provides an endpoint to retrieve numbers that are either palindromes, prime numbers, or both, depending on the input parameters.
 
+Possible improvements:
+- Add Authentication
+- Add Linting
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
